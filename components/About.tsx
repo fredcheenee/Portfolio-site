@@ -13,7 +13,7 @@ const About: React.FC = () => {
                   <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-secondary/20 rounded-full blur-2xl"></div>
                   {/* User should save the image from the Google Drive link as fred-new-profile.jpg in the root directory */}
                   <img 
-                    src="./fred-new-profile.jpg" 
+                    src="https://raw.githubusercontent.com/fredcheenee/Portfolio-site/main/Untitled-2.jpg" 
                     alt="Fred De Los Santos" 
                     className="rounded-xl w-full h-auto object-cover relative z-10 opacity-90 hover:opacity-100 transition-opacity shadow-2xl"
                   />
